@@ -13,8 +13,8 @@
 
 ### 🌱 Currently Learning
 
-- Full-stack development (MERN stack)
-- Open Source best practices
+- JAVA Full-stack development
+- Open Source contributions
 
 ---
 
