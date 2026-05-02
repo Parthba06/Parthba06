@@ -1,54 +1,12 @@
-🔭 I’m currently working on
-Building scalable backend systems using Java and Node.js, along with real-world full-stack projects
+# 💫 About Me:
+🔭 I’m currently working on<br>Building scalable backend systems using Java and Node.js, along with real-world full-stack projects<br><br>👯 I’m looking to collaborate on<br>Backend-focused projects, open source contributions, and systems involving APIs, databases, and DevOps<br><br>🤝 I’m looking for help with<br>Advanced backend concepts, system design, and contributing to large-scale open-source projects<br><br>🌱 I’m currently learning<br>Java Backend (Spring Boot), CI/CD pipelines, Cloud (AWS), and DevOps practices
 
-👯 I’m looking to collaborate on
-Backend-focused projects, open source contributions, and systems involving APIs, databases, and DevOps
 
-🤝 I’m looking for help with
-Advanced backend concepts, system design, and contributing to large-scale open-source projects
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Parthba06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Parthba06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Parthba06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🌱 I’m currently learning
-Java Backend (Spring Boot), CI/CD pipelines, Cloud (AWS), and DevOps practices
-
-## 🛠 Tech Stack
-
-### Backend
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=flat\&logo=spring\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat\&logo=node.js\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat\&logo=mongodb\&logoColor=white)
-
-### DevOps & Cloud
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat\&logo=amazon-aws\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat\&logo=githubactions\&logoColor=white)
-
----
-
-## 🔥 Open Source
-
-✅ Mozilla Contribution
-🔗 https://github.com/mozilla/addons-release-tests/pull/1110
-
----
-
-## 📌 Featured Projects
-
-👉 (Add your best 2–3 projects here manually)
-
-* 🔗 Project 1 – API / Backend project
-* 🔗 Project 2 – Full-stack (backend heavy)
-* 🔗 Project 3 – DevOps / deployment project
-
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Parthba06\&show_icons=true\&theme=radical)
-![Streak](https://streak-stats.demolab.com/?user=Parthba06\&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
